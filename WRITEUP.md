@@ -7,7 +7,7 @@
 - *Choose the appropriate solution (VM or App Service) for deploying the app*
 - *Justify your choice*
 
-- I chose an app service to ensure our developers can focus solely on the application itself without needing to manage the infrastructure. This decision was driven by the fact that our developers don't have the time to handle infrastructure management. Additionally, using an app service will facilitate scaling up to a mobile application in the future. 
+ANSWER: I chose an app service to ensure our developers can focus solely on the application itself without needing to manage the infrastructure. This decision was driven by the fact that our developers don't have the time to handle infrastructure management. Additionally, using an app service will facilitate scaling up to a mobile application in the future. 
 **Cost**: In the long run, the app service will be more cost-effective. 
 **Scalability**: The app service will make it easier to scale our application to a mobile platform.
 **Availability**: The app service offers high availability, which is crucial since this article database will be used by very critical users.
@@ -23,4 +23,4 @@ Workflow: The workflow would be more challenging for our developers, as they wou
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
 
-We might reconsider our decision if we had enough developers to manage the VM infrastructure. Additionally, if mobile scalability isn't required by users or if our company prioritizes cost reduction, these factors could also influence a change in our decision.
+ANSWER: We might reconsider our decision if we had enough developers to manage the VM infrastructure. Additionally, if mobile scalability isn't required by users or if our company prioritizes cost reduction, these factors could also influence a change in our decision.
